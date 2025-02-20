@@ -1,3 +1,8 @@
 *.dart linguist-detectable=true
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
+*.dart linguist-detectable=true
+CMakeLists.txt linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cmake linguist-detectable=false
