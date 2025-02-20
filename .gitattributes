@@ -6,3 +6,14 @@ CMakeLists.txt linguist-detectable=false
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
 *.cmake linguist-detectable=false
+*.dart linguist-detectable=true
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+test/** linguist-vendored
